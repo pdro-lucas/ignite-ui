@@ -24,6 +24,11 @@ export const Button = styled('button', {
     color: '$gray600',
   },
 
+  '&:focus': {
+    outline: 'none',
+    boxShadow: '0 0 0 2px $colors$gray100',
+  },
+
   svg: {
     width: '$4',
     height: '$4',
