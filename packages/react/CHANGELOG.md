@@ -1,5 +1,11 @@
 # @ignite-ui-pedro/react
 
+## 1.1.1
+
+### Patch Changes
+
+- Added Toast component
+
 ## 1.1.0
 
 ### Minor Changes
